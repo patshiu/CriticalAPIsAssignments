@@ -6,7 +6,7 @@ Pat Shiu | Apr 2015
 */
 
 
-// var endPoint = 'http://www.citibikenyc.com/stations/json/'; 
+//var endPoint = 'http://www.citibikenyc.com/stations/json/'; 
 var endPoint = './data/citibikes.json'
 var bikeJSON; 
 var allStations; 
